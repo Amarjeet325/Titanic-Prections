@@ -2,7 +2,7 @@
 
 ## Author: Amarjeet Patel
 
-## Domain: Data Science
+## Domain: Data Science Projects
 
 ## Aim
 
@@ -10,7 +10,7 @@ The aim of this project is to build a model that predicts whether a passenger on
 
 ## Dataset
 
-The dataset for this project is imported from a CSV file, "archive.zip". The dataset contains information about passengers on the Titanic, including their survival status, class (Pclass), sex (Gender), and age (Age).
+The dataset for this project is imported from a CSV file, "tested.csv". The dataset contains information about passengers on the Titanic, including their survival status, class (Pclass), sex (Gender), and age (Age).
 
 ## Libraries Used
 
